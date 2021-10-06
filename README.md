@@ -1,4 +1,4 @@
-# CustomRooms
+# Custom Rooms
 
 A mod for Potion Craft that lets you add custom rooms
 
