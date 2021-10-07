@@ -29,6 +29,8 @@ This room asset is used by and included with my [Storage Cellar mod](https://git
 
 Using those two for guidance should be enough for someone to add their own room
 
+Once the room asset is done in Unit, you must build it into an asset bundle using the UI that can be found at Window->Asset Bundle Browser
+
 ## Used libraries
 
 - Harmony
